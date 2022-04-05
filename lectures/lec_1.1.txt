@@ -1,0 +1,21 @@
+Java --> java is one programing language
+
+-- open source
+-- platform independant --> using java we create software which can be run on any platform --> JAR
+
+JRE --> software just to run java based app
+JDK --> java development kit == JRE + javac etc
+
+-- OOPs --> object oriented programing
+
+considering everything as real world entities
+
+class --> blueprint/template for creating objects
+object --> 	1) properties
+		2) functionalities
+
+
+
+
+
+
