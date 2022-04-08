@@ -1,0 +1,20 @@
+1. WAP to check if the given number is even number or odd number?
+2. WAP to check if the given number is primary number or not?
+
+1. WAP to filter only even items from below array
+[3,45,23,78,44,34,88]
+2. WAP to print square of all items from 1 to 20?
+3. WAP to print below design
+*****
+****
+***
+**
+*
+4. WAP to calculate employees bonus based on his designation by below rule
+Manager --> 30%
+Lead --> 25%
+Associate --> 20%
+create employee class with id, name ,salary and commission parameters
+bonus will be salary + commision
+Follow oops
+
